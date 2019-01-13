@@ -6,7 +6,7 @@ describe('CalculatorTests', () => {
         assertAdd('', 0);
     });
 
-    it('should add return number when given only one', () => {
+    it('should return number when given only one', () => {
         assertAdd('1', 1);
     });
 
