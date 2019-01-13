@@ -1,6 +1,6 @@
 # String Calculator
 
-The focuse is to solve this kata using multiple languages.
+The focus is to solve this kata using multiple languages.
 
 # Acceptance Criteria
 
