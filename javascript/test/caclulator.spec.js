@@ -9,4 +9,8 @@ describe('CalculatorTests', () => {
     it('should add return number when given only one', () => {
        expect(add('1')).to.eql(1);
     });
+
+    it('should return sum when given comma separated string', () => {
+       expect(add('1,2,3,4,5')).to.eql(15);
+    });
 });
