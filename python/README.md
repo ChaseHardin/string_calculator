@@ -1,5 +1,5 @@
 # String Calculator Kata
-*Completed using Python 3*
+*Completed using Python 3.6.1*
 
 # Acceptance Criteria
 
